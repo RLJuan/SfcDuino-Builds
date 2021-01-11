@@ -11,6 +11,8 @@ Permite el uso de varibles auxiliares, tales como:
 - TON: temporizador con retardo a la conexión.
 - TOF: temporizador con retardo a la desconexión.
 
+![CapturaSfcDuino](https://user-images.githubusercontent.com/77203519/104228022-8de76f80-544a-11eb-8ac8-9ac5b36944bb.png)
+
 Dispositivos soportados hasta ahora:
 
 - Arduino UNO (R3)
