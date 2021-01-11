@@ -7,7 +7,7 @@ El software permite diseñar gráficamente uno o varios GRAFCETs para posteriorm
 
 Permite el uso de varibles auxiliares, tales como:
 - BOOL: marca boleana.
-- INT: para realizar operaciones matemáticas (suma, resta, multiplicación y división) o a modo de contadores.
+- INT: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
 - TP: temporizador de único pulso.
 - TON: temporizador con retardo a la conexión.
 - TOF: temporizador con retardo a la desconexión.
