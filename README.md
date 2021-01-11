@@ -15,12 +15,11 @@ Permite el uso de varibles auxiliares, tales como:
 ![CapturaSfcDuino4](https://user-images.githubusercontent.com/77203519/104244042-eece7200-5461-11eb-8aa0-7b68c59e6f18.png)
 
 Dispositivos soportados hasta ahora:
-
 - Arduino UNO (R3)
 - Arduino Leonardo
 - ArdBox Analog
 
-Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante).
+Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
 - IDE oficial Arduino: https://www.arduino.cc/en/software
 - .NET Framework 4.6.1: https://www.microsoft.com/es-es/download/details.aspx?id=49982
 
@@ -28,4 +27,5 @@ Queda prohibida la venta, reproducción, alteración y/o transformación de este
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor.
 
-Descarga (pre-release v1.0): https://github.com/RLJuan/SfcDuino-Builds/releases/download/SfcDuinoV1.0/SfcDuino1.0.zip
+Pre-release V1.0:
+- Descarga: https://github.com/RLJuan/SfcDuino-Builds/releases/download/SfcDuinoV1.0/SfcDuino1.0.zip
