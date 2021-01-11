@@ -20,6 +20,10 @@ Dispositivos soportados hasta ahora:
 - Arduino Leonardo
 - ArdBox Analog
 
+Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante).
+IDE oficial Arduino: https://www.arduino.cc/en/software
+.NET Framework 4.6.1: https://www.microsoft.com/es-es/download/details.aspx?id=49982
+
 Queda prohibida la venta, reproducción, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3).
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor.
