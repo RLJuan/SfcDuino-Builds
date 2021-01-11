@@ -20,5 +20,6 @@ Dispositivos soportados hasta ahora:
 - Arduino Leonardo
 - ArdBox Analog
 
-Queda prohibida la venta, reproducción, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3). Este software es gratuito y queda limitado a usos sin fines lucrativos.
+Queda prohibida la venta, reproducción, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3).
+Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor.
