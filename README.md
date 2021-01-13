@@ -19,6 +19,10 @@ Dispositivos soportados hasta ahora:
 - Arduino Leonardo
 - ArdBox Analog
 
+Próximamente:
+- Arduino NANO
+- Arduino MEGA
+
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
 - IDE oficial Arduino: https://www.arduino.cc/en/software
 - .NET Framework 4.6.1: https://www.microsoft.com/es-es/download/details.aspx?id=49982
