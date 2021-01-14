@@ -19,7 +19,7 @@ Dispositivos soportados hasta ahora:
 - Arduino Leonardo
 - ArdBox Analog
 
-Próximamente:
+Próximamente (febrero 2021):
 - Arduino NANO
 - Arduino MEGA
 
