@@ -24,12 +24,12 @@ Próximamente:
 - Arduino MEGA
 
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
-- IDE oficial Arduino: https://www.arduino.cc/en/software
-- .NET Framework 4.6.1: https://www.microsoft.com/es-es/download/details.aspx?id=49982
+- [IDE oficial de Arduino](https://www.arduino.cc/en/software)
+- [.NET Framework 4.6.1](https://www.microsoft.com/es-es/download/details.aspx?id=49982)
 
 Queda prohibida la venta, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3).
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
 
 Pre-release V1.0:
-- Descarga: https://github.com/RLJuan/SfcDuino-Builds/releases/download/SfcDuinoV1.0/SfcDuino1.0.zip
+- [Descarga](https://github.com/RLJuan/SfcDuino-Builds/releases/download/SfcDuinoV1.0/SfcDuino1.0.zip)
