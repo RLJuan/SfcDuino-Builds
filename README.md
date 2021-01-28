@@ -6,7 +6,7 @@ Esta herramienta ha sido creada y diseñada desde cero en C# y C++ sin utilizar 
 El software permite diseñar gráficamente uno o varios GRAFCETs para posteriormente compilarse y enviarse al dispositivo.
 
 Permite el uso de varibles auxiliares, tales como:
-- BOOL: marca boleana.
+- BOOL: marca booleana.
 - INT: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
 - TP: temporizador de único pulso.
 - TON: temporizador con retardo a la conexión.
