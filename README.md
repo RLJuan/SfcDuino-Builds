@@ -18,10 +18,10 @@ Dispositivos soportados hasta ahora:
 - Arduino UNO (R3)
 - Arduino Leonardo
 - ArdBox Analog
+- **NUEVO (08/02/2021)**: Arduino MEGA 2560 (R3)
 
 Próximamente (febrero 2021):
 - Arduino NANO
-- Arduino MEGA
 
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
 - [IDE oficial de Arduino](https://www.arduino.cc/en/software)
@@ -30,5 +30,3 @@ Para su uso se requiere la instalación previa del IDE oficial de Arduino (versi
 Queda prohibida la venta, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3).
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
-
-- **[Descarga SfcDuino Pre-release V1.0](https://github.com/RLJuan/SfcDuino-Builds/releases/download/SfcDuinoV1.0/SfcDuino1.0.zip)**
