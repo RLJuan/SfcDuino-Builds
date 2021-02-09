@@ -23,6 +23,9 @@ Dispositivos soportados hasta ahora:
 Próximamente (febrero 2021):
 - Arduino NANO
 
+Últimos cambios:
+- **v1.0c (09/02/2021):** Ahora puede leerse el "Name" (descripción del puerto) de dispositivos Arduino con chips conversores USBSerial baratos (por ejemplo CH340G).
+
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
 - [IDE oficial de Arduino](https://www.arduino.cc/en/software)
 - [.NET Framework 4.6.1](https://www.microsoft.com/es-es/download/details.aspx?id=49982)
@@ -31,3 +34,4 @@ Queda prohibida la venta, alteración y/o transformación de este software (ejec
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
 
+- **[Descarga SfcDuino Pre-release v1.0c](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0c/SfcDuino1.0c.zip)**
