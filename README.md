@@ -31,4 +31,3 @@ Queda prohibida la venta, alteración y/o transformación de este software (ejec
 Este software es gratuito y queda limitado a usos sin fines lucrativos.
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
 
-- **[Descarga SfcDuino Pre-release v1.0b (última versión)](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0b/SfcDuino1.0b.zip)**
