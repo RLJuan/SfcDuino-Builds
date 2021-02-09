@@ -24,7 +24,7 @@ Próximamente (febrero 2021):
 - Arduino NANO
 
 Últimos cambios:
-- **v1.0c (09/02/2021):** Ahora puede leerse el "Name" (descripción del puerto) de dispositivos Arduino con chips conversores USBSerial baratos (por ejemplo CH340G).
+- **v1.0c (09/02/2021):** Ahora puede leerse el "Name" (descripción del puerto) de dispositivos Arduino con conversores USBSerial baratos (por ejemplo CH340G).
 
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
 - [IDE oficial de Arduino](https://www.arduino.cc/en/software)
