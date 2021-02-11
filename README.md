@@ -1,11 +1,10 @@
 # SfcDuino
-
 Entorno gráfico para programar mediante grafcets (SFC) dispositivos Arduino y autómatas basados en los mismos.
 Esta herramienta ha sido creada y diseñada desde cero en C# y C++ sin utilizar librerías de terceros.
 
 El software permite diseñar gráficamente uno o varios GRAFCETs para posteriormente compilarse y enviarse al dispositivo.
 
-## Variables de entorno
+## Variables del entorno
 Permite el uso de varibles tales como:
 - BOOL: marca booleana.
 - INT: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
@@ -41,5 +40,4 @@ Este software es gratuito y queda limitado a usos sin fines lucrativos._
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
 
 ## Descarga
-
-Descarga **[SfcDuino Pre-release v1.0c](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0c/SfcDuino1.0c.zip)**
+**[Descarga SfcDuino Pre-release v1.0c](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0c/SfcDuino1.0c.zip)**
