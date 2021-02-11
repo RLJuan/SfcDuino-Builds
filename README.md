@@ -8,11 +8,11 @@ El software permite diseñar gráficamente uno o varios GRAFCETs para posteriorm
 
 ## Variables soportadas ⛓
 Además de implementar gráficamente _etapas_, _acciones_ y _transiciones_ para la creación de GRAFCETs, el entorno soporta los siguientes tipos de variables:
-- BOOL: marca booleana.
-- INT: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
-- TP: temporizador de único pulso.
-- TON: temporizador con retardo a la conexión.
-- TOF: temporizador con retardo a la desconexión.
+- _BOOL_: marca booleana.
+- _INT_: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
+- _TP_: temporizador de único pulso.
+- _TON_: temporizador con retardo a la conexión.
+- _TOF_: temporizador con retardo a la desconexión.
 
 ## Dispositivos 🔌
 Dispositivos soportados hasta ahora:
@@ -26,7 +26,7 @@ Próximamente (febrero 2021):
 
 ## Últimos cambios 🛠
 Cambios realizados desde la última versión:
-- **v1.0c (09/02/2021):** Ahora puede leerse el "Name" (descripción del puerto) de dispositivos Arduino con conversores USBSerial baratos (por ejemplo CH340G, muy utilizado en réplicas chinas).
+- **v1.0c (09/02/2021):** _Ahora puede leerse el "Name" (descripción del puerto) de dispositivos Arduino con conversores USBSerial baratos (por ejemplo CH340G, muy utilizado en réplicas chinas)._
 
 ## Requisitos ✒️
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
