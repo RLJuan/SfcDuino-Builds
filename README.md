@@ -40,4 +40,5 @@ Este software es gratuito y queda limitado a usos sin fines lucrativos._
 Si desea colaborar en el desarrollo de este software u obtener el código fuente del mismo (con licencia GPL3) contacte con el autor ([@RLJuan](https://github.com/RLJuan)).
 
 ## Descarga
-### **[Descarga SfcDuino Pre-release v1.0c](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0c/SfcDuino1.0c.zip)**
+Enlace para descarga
+### - **[Descarga SfcDuino Pre-release v1.0c](https://github.com/RLJuan/SfcDuino-Builds/releases/download/v1.0c/SfcDuino1.0c.zip)**
