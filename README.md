@@ -26,7 +26,7 @@ Próximamente (febrero 2021):
 
 ## Últimos cambios 🛠
 Cambios realizados desde la última versión:
-- **v1.0c (09/02/2021):** _ahora puede leerse la variable "name" (descripción del puerto) de dispositivos Arduino con conversores USBSerial baratos (por ejemplo CH340G, muy utilizado en réplicas chinas)._
+- **v1.0c (09/02/2021):** ahora puede leerse la variable _name_ (descripción del puerto) de dispositivos Arduino con conversores USB/Serial baratos (por ejemplo _CH340G_, muy utilizado en réplicas chinas).
 
 ## Requisitos ✒️
 Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
