@@ -4,8 +4,8 @@ Esta herramienta ha sido creada y diseñada desde cero en C# y C++ sin utilizar 
 
 El software permite diseñar gráficamente uno o varios GRAFCETs para posteriormente compilarse y enviarse al dispositivo.
 
-## Variables del entorno ⛓
-Permite el uso de varibles tales como:
+## Variables soportadas ⛓
+Además de implementar gráficamente _etapas_, _acciones_ y _transiciones_ para la creación de los GRAFCETs, el entorno soporta la declaración y uso de las siguientes variables, incrementando la funcionalidad de la herramiena:
 - BOOL: marca booleana.
 - INT: para realizar operaciones aritméticas (suma, resta, multiplicación y división) o a modo de contadores.
 - TP: temporizador de único pulso.
