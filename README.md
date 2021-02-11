@@ -3,6 +3,7 @@ Entorno gráfico para programar mediante grafcets (SFC) dispositivos Arduino y a
 Esta herramienta ha sido creada y diseñada desde cero en C# y C++ sin utilizar librerías de terceros.
 
 El software permite diseñar gráficamente uno o varios GRAFCETs para posteriormente compilarse y enviarse al dispositivo.
+
 ![CapturaSfcDuino4](https://user-images.githubusercontent.com/77203519/104244042-eece7200-5461-11eb-8aa0-7b68c59e6f18.png)
 
 ## Variables soportadas ⛓
