@@ -18,7 +18,7 @@ Además de implementar gráficamente _etapas_, _acciones_ y _transiciones_ para 
 Dispositivos soportados hasta ahora:
 - Arduino UNO (R3)
 - Arduino Leonardo
-- ArdBox Analog
+- ArdBox Analog (Industrial Shields)
 - **NUEVO (v1.0b - 08/02/2021)**: Arduino MEGA 2560 (R3)
 
 Próximamente:
