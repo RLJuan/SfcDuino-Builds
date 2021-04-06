@@ -21,7 +21,7 @@ Dispositivos soportados hasta ahora:
 - ArdBox Analog
 - **NUEVO (v1.0b - 08/02/2021)**: Arduino MEGA 2560 (R3)
 
-Próximamente (febrero 2021):
+Próximamente:
 - Arduino NANO
 
 ## Últimos cambios 🛠
