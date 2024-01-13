@@ -1,8 +1,9 @@
 # SfcDuino
-Entorno gráfico para programar mediante grafcets (SFC) dispositivos Arduino y autómatas basados en los mismos.
+Entorno gráfico para programar mediante grafcets (SFC) dispositivos Arduino y autómatas basados en los mismos, cumpliendo normas UNE-EN 60848 y UNE-EN 61131-3.
+
 Esta herramienta ha sido creada y diseñada desde cero en C# y C++ sin utilizar librerías de terceros.
 
-El software permite diseñar gráficamente uno o varios GRAFCETs para posteriormente compilarse y enviarse al dispositivo.
+El software permite diseñar gráficamente GRAFCETs, para posteriormente compilar y enviar al dispositivo. El trazado automático realiza las conexiones entre los elementos ahorrando tiempo, además de evitar errores de diseño por parte del usuario, ya que, el algoritmo se centra en cumplir cada una de las reglas elementales impuestas en las normas UNE-EN mencionadas anteriormente.
 
 ![CapturaSfcDuino4](https://user-images.githubusercontent.com/77203519/104244042-eece7200-5461-11eb-8aa0-7b68c59e6f18.png)
 
