@@ -30,9 +30,8 @@ Cambios realizados desde la última versión:
 - **v1.0c (09/02/2021):** ahora puede leerse la variable _name_ (descripción del puerto) de dispositivos Arduino con conversores USB/Serial baratos (por ejemplo _CH340G_, muy utilizado en réplicas chinas).
 
 ## Requisitos ✒️
-Para su uso se requiere la instalación previa del IDE oficial de Arduino (versión 1.8.6 en adelante):
-- [IDE oficial de Arduino](https://www.arduino.cc/en/software)
-- [.NET Framework 4.6.1](https://www.microsoft.com/es-es/download/details.aspx?id=49982)
+Para su uso se requiere la instalación previa del IDE oficial de Arduino (legacy):
+- [IDE oficial de Arduino 1.8.19 (legacy)](https://downloads.arduino.cc/arduino-1.8.19-windows.exe)
 
 ## Licencia 🧾
 _Queda prohibida la venta, alteración y/o transformación de este software (ejecutables, código fuente, librerías y todos los ficheros relacionados con SfcDuino y SfcLib) si no se dispone de autorización expresa por parte del autor (con licencia GPL3).
